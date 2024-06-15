@@ -177,14 +177,14 @@ a.visited {
 }
 
 .hero-bg {
-    background: url('/assets/images/background.jpg');
+    background: url('/assets/images/background.webp');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
 
 .page-header {
-    background: url(assets/images/background.jpg) no-repeat;
+    background: url(assets/images/background.webp) no-repeat;
     background-size: cover;
     background-position: bottom;
     background-attachment: fixed;
